@@ -1,3 +1,5 @@
+package SSD;
+
 public class WordProcessor extends Object implements Counter
 {
 
